@@ -2,7 +2,7 @@
   "nodes": [
     {
       "name": "DeployCoin One Node",
-      "url": "public.deploy-coin.com",
+      "url": "45.66.8.215",
       "port": 11898,
       "ssl": false,
       "cache": false
